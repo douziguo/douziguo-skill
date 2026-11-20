@@ -55,8 +55,8 @@ douziguo-skill/
 
 将本仓库放到 AI 助手的技能目录即可，例如：
 
-- 用户级技能：`~/.workbuddy/skills/douziguo-skill/`
-- 项目级技能：`<项目>/.workbuddy/skills/douziguo-skill/`
+- 用户级技能：`~/skills/douziguo-skill/`
+- 项目级技能：`<项目>/skills/douziguo-skill/`
 
 技能名由 `SKILL.md` 头部的 `name` 字段决定（当前为 `code-collab-rules`）。启用后，助手会在涉及源码改动的协作中自动遵循上述纪律。
 
